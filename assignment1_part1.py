@@ -1,4 +1,4 @@
-def ListDivide(number=[], divide= 2):
+def ListDivide (number=[], divide= 2):
     count= 0
     for i in number:
             if i % divide== 0:
